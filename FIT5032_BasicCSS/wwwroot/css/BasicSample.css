@@ -1,0 +1,40 @@
+﻿.previewsecondLevel {
+    font-size: 30px;
+    color: blueviolet;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-decoration-thickness: 100px;
+}
+
+.preview {
+    background-color: yellow;
+    width: 300px;
+
+}
+
+.preview2 {
+    background-color: seagreen;
+    width: 500px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.preview2secondLevel {
+    color: black;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-right: 250px;
+    font-family: Arial;
+    font-weight: 650;
+    opacity: 0.9;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-decoration-thickness: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
